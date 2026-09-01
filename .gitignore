@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+programa
+main    
+suma  
+.DS_Store
+.vscode/
+*.dSYM/
