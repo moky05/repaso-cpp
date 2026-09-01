@@ -1,9 +1,7 @@
-*.o
 *.out
-*.exe
-programa
-main    
-suma  
-.DS_Store
+*.programa
+# Editores y Sistema Operativo
 .vscode/
-*.dSYM/
+.idea/
+.DS_Store
+Thumbs.db
