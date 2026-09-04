@@ -1,5 +1,6 @@
 *.out
-*.programa
+programa
+*.o
 # Editores y Sistema Operativo
 .vscode/
 .idea/
